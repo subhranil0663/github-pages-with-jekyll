@@ -8,4 +8,4 @@ description: >
 twitter_username: subhranil1807
 github_username:  subhranil0663
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-merlot
